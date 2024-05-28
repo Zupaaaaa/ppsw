@@ -1,21 +1,21 @@
 Dependencies for Project 'Kiek', Target 'Target 1': (DO NOT MODIFY !)
-F (.\Startup.s)(0x6637D376)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
-F (.\main.c)(0x6656461C)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+F (.\Startup.s)(0x665658AF)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\main.c)(0x665658AF)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (C:\Users\fkiek\studia\ppsw\Current\led.h)(0x665658AF)
+I (C:\Users\fkiek\studia\ppsw\Current\keyboard.h)(0x665658AF)
+I (C:\Users\fkiek\studia\ppsw\Current\timer_interrupts.h)(0x665658AF)
+I (C:\Users\fkiek\studia\ppsw\Current\servo.h)(0x665658AF)
+F (.\led.c)(0x665658AF)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\led.o --omf_browse .\led.crf --depend .\led.d)
 I (C:\Keil\ARM\Inc\Philips\LPC21xx.H)(0x51C81BAC)
-I (C:\Users\fkiek\OneDrive\Dokumenty\AGH MTM\Semestr 2\Podstawy_Programowania_Systemow_Wbudowanych\Kiek_TEST\Current\led.h)(0x663E7797)
-I (C:\Users\fkiek\OneDrive\Dokumenty\AGH MTM\Semestr 2\Podstawy_Programowania_Systemow_Wbudowanych\Kiek_TEST\Current\keyboard.h)(0x663E7870)
-I (C:\Users\fkiek\OneDrive\Dokumenty\AGH MTM\Semestr 2\Podstawy_Programowania_Systemow_Wbudowanych\Kiek_TEST\Current\timer_interrupts.h)(0x6640B1B6)
-F (.\led.c)(0x663E7CDA)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\led.o --omf_browse .\led.crf --depend .\led.d)
+I (C:\Users\fkiek\studia\ppsw\Current\led.h)(0x665658AF)
+F (.\keyboard.c)(0x665658AF)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\keyboard.o --omf_browse .\keyboard.crf --depend .\keyboard.d)
 I (C:\Keil\ARM\Inc\Philips\LPC21xx.H)(0x51C81BAC)
-I (C:\Users\fkiek\OneDrive\Dokumenty\AGH MTM\Semestr 2\Podstawy_Programowania_Systemow_Wbudowanych\Kiek_TEST\Current\led.h)(0x663E7797)
-F (.\keyboard.c)(0x663E7870)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\keyboard.o --omf_browse .\keyboard.crf --depend .\keyboard.d)
+I (C:\Users\fkiek\studia\ppsw\Current\keyboard.h)(0x665658AF)
+F (.\timer_interrupts.c)(0x665658AF)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\timer_interrupts.o --omf_browse .\timer_interrupts.crf --depend .\timer_interrupts.d)
 I (C:\Keil\ARM\Inc\Philips\LPC21xx.H)(0x51C81BAC)
-I (C:\Users\fkiek\OneDrive\Dokumenty\AGH MTM\Semestr 2\Podstawy_Programowania_Systemow_Wbudowanych\Kiek_TEST\Current\keyboard.h)(0x663E7870)
-F (.\timer_interrupts.c)(0x6640B1AE)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\timer_interrupts.o --omf_browse .\timer_interrupts.crf --depend .\timer_interrupts.d)
+I (C:\Users\fkiek\studia\ppsw\Current\timer_interrupts.h)(0x665658AF)
+F (.\servo.c)(0x665658AF)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\servo.o --omf_browse .\servo.crf --depend .\servo.d)
 I (C:\Keil\ARM\Inc\Philips\LPC21xx.H)(0x51C81BAC)
-I (C:\Users\fkiek\OneDrive\Dokumenty\AGH MTM\Semestr 2\Podstawy_Programowania_Systemow_Wbudowanych\Kiek_TEST\Current\timer_interrupts.h)(0x6640B1B6)
-F (.\servo.c)(0x665646C0)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\Philips-o .\servo.o --omf_browse .\servo.crf --depend .\servo.d)
-I (C:\Keil\ARM\Inc\Philips\LPC21xx.H)(0x51C81BAC)
-I (C:\Users\fkiek\OneDrive\Dokumenty\AGH MTM\Semestr 2\Podstawy_Programowania_Systemow_Wbudowanych\Kiek_TEST\Current\led.h)(0x663E7797)
-I (C:\Users\fkiek\OneDrive\Dokumenty\AGH MTM\Semestr 2\Podstawy_Programowania_Systemow_Wbudowanych\Kiek_TEST\Current\servo.h)(0x665646B7)
-I (C:\Users\fkiek\OneDrive\Dokumenty\AGH MTM\Semestr 2\Podstawy_Programowania_Systemow_Wbudowanych\Kiek_TEST\Current\timer_interrupts.h)(0x6640B1B6)
+I (C:\Users\fkiek\studia\ppsw\Current\servo.h)(0x665658AF)
+I (C:\Users\fkiek\studia\ppsw\Current\led.h)(0x665658AF)
+I (C:\Users\fkiek\studia\ppsw\Current\timer_interrupts.h)(0x665658AF)
