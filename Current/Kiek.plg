@@ -31,3 +31,7 @@ linking...
 Program Size: Code=2392 RO-data=32 RW-data=8 ZI-data=1272  
 FromELF: creating hex file...
 ".\Kiek.axf" - 0 Errors, 0 Warning(s).
+Clean started: Project: 'Kiek'
+   deleting intermediate output files for target 'Target 1'
+Clean started: Project: 'Kiek'
+   deleting intermediate output files for target 'Target 1'
