@@ -25,4 +25,4 @@ int main() {
 				break;
 		}
 	}
-}
+} //zmiana
