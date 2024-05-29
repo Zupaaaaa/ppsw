@@ -9,7 +9,7 @@ int main() {
 	
 	while(1){
 	 	switch(eKeyboardRead()) {
-			case BUTTON_0:
+			case BUTTON_0:// gittestmz
 				ServoCallib();
 				break;
 			case BUTTON_1:
